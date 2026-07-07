@@ -1,2 +1,2 @@
 # Chagas-XAI
-This a repository to reproduce the results reported in the paper "Multivariate Time-Series Learning for Chronic Chagas Disease Classification from Raw 12-Lead ECG Signals"
+This repository accompanies the paper "Multivariate Time-Series Learning for Chronic Chagas Disease Classification from Raw 12-Lead ECG Signals" and provides the source code, sample ECG recordings, and deployment resources required to reproduce the reported experiments. It explores multivariate time-series (MTS) learning as an alternative paradigm for automated chronic Chagas disease (CD) classification from raw 12-lead ECG recordings.
