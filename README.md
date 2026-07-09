@@ -11,3 +11,10 @@ This repository accompanies the paper "Multivariate Time-Series Learning for Chr
 - Matplotlib 3.10.7
 - Seaborn 0.13.2
 - Streamlit 1.56.0
+
+# Download sample ECGs
+To test the Chagas-XAI application, download the two ECG signal samples available in the "samples" folder.
+
+# Launch Streamlit App
+Enter the following link: https://chagas-xai.streamlit.app/
+
