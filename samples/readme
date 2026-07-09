@@ -1,0 +1,6 @@
+This folder contains two samples to evaluate Chagas-XAI application. Both files are in .mat format
+
+- Healthy subject (from PTB-XL database)
+- Patient with chronic CD (from SaMi-Trop database)
+
+The samples were taken from the test set. Both samples are available from the [PTB-XL](https://physionet.org/content/ptb-xl/1.0.3/) and [SaMi-Trop](https://zenodo.org/records/4905618) repositories
