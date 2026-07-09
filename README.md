@@ -4,7 +4,7 @@ This repository accompanies the paper "Multivariate Time-Series Learning for Chr
 # Download sample ECGs
 To test the Chagas-XAI application, download the two ECG signal samples available in the "samples" folder.
 
-# Launch Streamlit App
+:rocket: # Launch Streamlit App
 Enter the following link: https://chagas-xai.streamlit.app/
 Enjoy!
 
