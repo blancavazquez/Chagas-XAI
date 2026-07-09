@@ -1,10 +1,10 @@
 # Chagas-XAI
 This repository accompanies the paper "Multivariate Time-Series Learning for Chronic Chagas Disease Classification from Raw 12-Lead ECG Signals" and provides the source code, sample ECG recordings, and deployment resources required to reproduce the reported experiments. It implements the proposed framework for automated chronic Chagas disease (CD) classification from raw 12-lead ECG recordings using multivariate time-series (MTS) learning.
 
-# Download sample ECGs
+# Download sample ECGs :heart:
 To test the Chagas-XAI application, download the two ECG signal samples available in the "samples" folder.
 
-:rocket: # Launch Streamlit App
+# Launch Streamlit App :rocket:
 Enter the following link: https://chagas-xai.streamlit.app/
 Enjoy!
 
