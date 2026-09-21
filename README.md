@@ -8,6 +8,7 @@ To test the Chagas-XAI application, download the two ECG signal samples availabl
 Enter the following link: https://chagas-xai.streamlit.app/
 Enjoy!
 
+# Settings:
 - Python 3.13.9
 - PyTorch 2.9.1
 - PyTorch Lightning 2.5.2
