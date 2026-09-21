@@ -1,21 +1,9 @@
-# Chagas-XAI
-This repository accompanies the paper "Multivariate time-series deep learning for the classification of chronic Chagas disease from raw electrocardiograms" and provides the source code, sample ECG recordings, and deployment resources required to reproduce the reported experiments. It implements the proposed framework for automated chronic Chagas disease (CD) classification from raw 12-lead ECG recordings using multivariate time-series (MTS) learning.
-
-# Download sample ECGs :heart:
-To test the Chagas-XAI application, download the two ECG signal samples available in the "samples" folder.
-
-# Launch Streamlit App :rocket:
-Enter the following link: https://chagas-xai.streamlit.app/
-Enjoy!
+# Classification of Experimental Chagas Disease
+This repository accompanies the paper "Automatic Classification of Experimental Chagas Disease from Stereomicroscopic Images Using a Vision Foundation Model" and provides the source code, metrics, and experimental configuration.
 
 # Requirements
-- Python 3.13.9
-- PyTorch 2.9.1
-- PyTorch Lightning 2.5.2
-- PyPOTS 1.1
-- NumPy 1.26.4
-- Pandas 2.3.3
-- Matplotlib 3.10.7
-- Seaborn 0.13.2
-- Streamlit 1.56.0
-
+- Python 3.14.6
+- transformers 5.13.0
+- huggingface-hub 1.23.0
+- captum 0.9.0
+- scipy 1.18.0
